@@ -15,7 +15,9 @@
 
 ## 📝 Description
 
-This is a simple Python application that simulates a Magic 8-Ball. The user is prompted to enter their name and ask a question. The application then provides a random response from a predefined list of answers. This project is useful for those learning Python and want to understand basic concepts like loops, conditionals, and user input.
+This project is part of the Python3 course by Codecademy, designed to help learners understand the basics of Python programming: Control Flow.
+
+In this project, I built a Magic 8-Ball using control flow in Python. The user will be able to input a question, then our program will output a random fortune in response to a "Yes" or "No" question possed by the user.
 
 ## 📚 Table of Contents
 
