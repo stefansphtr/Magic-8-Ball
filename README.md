@@ -1,4 +1,4 @@
-# <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="50"> Magic 8-Ball <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="50">
+# <img src="./src/img/GIF Codecademy.gif" width="50"> Magic 8-Ball <img src="./src/img/GIF Codecademy.gif" width="50">
 
 
 <p align="center">
